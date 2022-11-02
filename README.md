@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning MERN STACK 
+
+I'm a Final Year CSE Student & An aspiring MERN STACK devloper.
 
 
 ## 🌐 Socials:
