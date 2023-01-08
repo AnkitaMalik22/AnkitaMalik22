@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a Final Year CSE Student & An aspiring MERN STACK devloper.
+I'm a Final Year CSE Student & An aspiring MERN STACK developer.
 
 
 ## 🌐 Socials:
